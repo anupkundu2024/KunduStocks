@@ -1,5 +1,16 @@
 {
-  "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
-  }
+  "name": "kundustocks",
+  "version": "1.0.0",
+  "description": "Zerodha Clone - Full Stack Trading Platform",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build completed'",
+    "start": "echo 'Start completed'"
+  },
+  "dependencies": {
+    "mongoose": "^8.18.0",
+    "dotenv": "^17.2.1"
+  },
+  "author": "anupkundu",
+  "license": "ISC"
 }
